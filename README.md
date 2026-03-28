@@ -1,5 +1,5 @@
 # 💫 About Me:
-Machine Learning | Backend | DSA Enthusiast<br><br>🔹 Strong foundation in Data Structures & Algorithms with consistent problem-solving practice<br><br>🔹 Building and deploying Machine Learning models using Python, Flask, and modern ML tools<br><br>🔹 Experienced with Java, Spring Boot, REST APIs, JWT & OAuth2 for scalable backend systems<br><br>🔹 Passionate about writing clean, optimized, and efficient code<br><br>🔹 Turning ideas into real-world projects by blending ML intelligence with robust engineering
+Machine Learning | Backend | DSA Enthusiast<br><br>🔹 Strong foundation in Data Structures & Algorithms with consistent problem-solving practice in java<br><br>🔹 Building and deploying Machine Learning models using Python, Flask, and modern ML tools<br><br>🔹 Experienced with Java, Spring Boot, REST APIs, JWT & OAuth2 for scalable backend systems<br><br>🔹 Passionate about writing clean, optimized, and efficient code<br><br>🔹 Turning ideas into real-world projects by blending ML intelligence with robust engineering
 
 
 # 💻 Tech Stack:
